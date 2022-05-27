@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">day3</string>
+    <string name="app_logo">App Logo</string>
+    <string name="bull_s_rent">BULL\'s</string>
+    <string name="rent">Rent</string>
+    <string name="nation_wide_car_rental_app">Nation wide car rental app</string>
+    <string name="hello_there">Hello there,</string>
+    <string name="WELCOME_BACK">WELCOME BACK</string>
+    <string name="signe_in_to_continue">signe in to continue</string>
+    <string name="passwrold">Passwrold</string>
+    <string name="username">User Name</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forget_passworld">Forget Passworld</string>
+    <string name="go">go</string>
+    <string name="new_user_signe_up">New user signe up</string>
+    <string name="welcome">WELCOME</string>
+    <string name="signe_up_to_your_new_journey">signe up to your new journey</string>
+    <string name="fullname">full name</string>
+    <string name="email">email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_have_an_account_login">already have an account login</string>
+</resources>
